@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "fileName": "profile-photo-1.jpg",
+    "fileSize": 2048576,
+    "uploadDate": "2024-01-15T10:25:00Z",
+    "status": "completed"
+  },
+  {
+    "Id": 2,
+    "fileName": "headshot-original.png",
+    "fileSize": 3145728,
+    "uploadDate": "2024-01-14T15:40:00Z",
+    "status": "completed"
+  },
+  {
+    "Id": 3,
+    "fileName": "business-photo.jpg",
+    "fileSize": 1572864,
+    "uploadDate": "2024-01-13T09:15:00Z",
+    "status": "completed"
+  },
+  {
+    "Id": 4,
+    "fileName": "casual-portrait.jpg",
+    "fileSize": 2621440,
+    "uploadDate": "2024-01-12T14:10:00Z",
+    "status": "completed"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "name": "Corporate Executive",
+    "description": "Professional corporate headshot with clean background, perfect for LinkedIn profiles and business cards.",
+    "previewUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Corporate profiles, LinkedIn, business cards",
+    "parameters": {
+      "background": "clean",
+      "lighting": "professional",
+      "style": "corporate",
+      "formality": "high"
+    }
+  },
+  {
+    "Id": 2,
+    "name": "Creative Professional",
+    "description": "Artistic and modern style with creative lighting, ideal for creative industries and portfolios.",
+    "previewUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Creative portfolios, design agencies, artistic profiles",
+    "parameters": {
+      "background": "artistic",
+      "lighting": "creative",
+      "style": "modern",
+      "formality": "medium"
+    }
+  },
+  {
+    "Id": 3,
+    "name": "Casual Professional",
+    "description": "Relaxed yet professional appearance, great for startups and modern workplace environments.",
+    "previewUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Startup profiles, casual business environments, team pages",
+    "parameters": {
+      "background": "neutral",
+      "lighting": "natural",
+      "style": "casual",
+      "formality": "medium"
+    }
+  },
+  {
+    "Id": 4,
+    "name": "Academic Scholar",
+    "description": "Scholarly and intellectual appearance, perfect for academic institutions and research profiles.",
+    "previewUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Academic profiles, research institutions, educational platforms",
+    "parameters": {
+      "background": "academic",
+      "lighting": "soft",
+      "style": "scholarly",
+      "formality": "high"
+    }
+  },
+  {
+    "Id": 5,
+    "name": "Healthcare Professional",
+    "description": "Trustworthy and approachable style, designed for healthcare and medical professionals.",
+    "previewUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Medical profiles, healthcare websites, professional directories",
+    "parameters": {
+      "background": "medical",
+      "lighting": "trustworthy",
+      "style": "professional",
+      "formality": "high"
+    }
+  },
+  {
+    "Id": 6,
+    "name": "Tech Innovator",
+    "description": "Modern tech-forward appearance with contemporary styling, perfect for technology professionals.",
+    "previewUrl": "https://images.unsplash.com/photo-1566492031773-4f4e44671d66?w=300&h=300&fit=crop&crop=face",
+    "bestFor": "Tech companies, innovation profiles, startup founders",
+    "parameters": {
+      "background": "tech",
+      "lighting": "modern",
+      "style": "innovative",
+      "formality": "medium"
+    }
+  }
+]
