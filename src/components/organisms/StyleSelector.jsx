@@ -37,10 +37,10 @@ const StyleSelector = ({
         </div>
       </div>
 
-      <div className="grid grid-cols-2 gap-4 mb-8">
-        {styles.map((style) => (
+<div className="grid grid-cols-2 gap-4 mb-8">
+        {styles.map((style, index) => (
           <motion.div
-            key={style.id}
+            key={style.id || `style-${index}`}
             onHoverStart={() => setHoveredStyle(style)}
             onHoverEnd={() => setHoveredStyle(null)}
           >
